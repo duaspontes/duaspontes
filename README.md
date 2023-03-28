@@ -15,7 +15,7 @@
   <a href = "mailto:t.leao.martins@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tomás-sevaybricker-412012207" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
+<!-- 
 <div> 
   <a href = "https://www.freecodecamp.org/duaspontes"><img src="https://goo.gl/oQrQYo" width="100" height="100" target="_blank"></a>
-</div>
+</div> -->
